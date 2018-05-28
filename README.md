@@ -1,0 +1,2 @@
+# paf-base
+This is the first Dockerfile for the Phased-Array-Feed backend software development. It has all softwares installed into single image. I may have to seperate these software into different images to make it more dockerlized.
